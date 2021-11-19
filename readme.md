@@ -2,8 +2,8 @@
 
 ## Things to Know
 
-You are awesome
-That's about it
+- You are awesome
+- That's about it
 
 ### Things to Check Out
 
